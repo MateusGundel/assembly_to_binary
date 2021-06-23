@@ -8,3 +8,4 @@ Python script para converter código assembly da maquina de Kand para as instru�
 
 Links para acesso da máquina de Kand
 http://users.dickinson.edu/~braught/kands/KandS2/instructions.html
+http://users.dickinson.edu/~braught/kands/KandS2/machine.html
